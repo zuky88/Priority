@@ -1,6 +1,6 @@
 # Priority 
 
-The server gives priority to the data from ClientE and outputs it.
+The server gives priority to the data from Client-E and outputs it.
 
 # Usage
 ```bash
